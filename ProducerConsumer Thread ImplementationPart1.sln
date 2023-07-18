@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProducerConsumer Thread ImplementationPart1", "ProducerConsumer Thread ImplementationPart1\ProducerConsumer Thread ImplementationPart1.csproj", "{EC241164-4BA8-4A6B-86A5-5A7D34F41B0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC241164-4BA8-4A6B-86A5-5A7D34F41B0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC241164-4BA8-4A6B-86A5-5A7D34F41B0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC241164-4BA8-4A6B-86A5-5A7D34F41B0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC241164-4BA8-4A6B-86A5-5A7D34F41B0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EB644EB-4F2B-48AE-8684-6312BC94711E}
+	EndGlobalSection
+EndGlobal
